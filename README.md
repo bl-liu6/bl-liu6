@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bolun Liu, You can call me Leo
+- 👋 Hi, I’m Bolun, You can call me Leo
 - 👀 I’m interested in frontend and backend technologies
 - 🌱 I’m currently learning full stack web development, and plan to learn mobile app development
 - 💞️ I’m looking to collaborate on open source projects
