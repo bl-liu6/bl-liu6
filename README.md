@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bolun, You can call me Leo
-- 👀 I’m interested in frontend and backend technologies
-- 🌱 I’m currently learning full stack web development, mobile app development, and cybersecurity
+- 👀 I’m interested in frontend, backend and AI technologies
+- 🌱 I have wide experience in full stack development, mobile app development, and cloud computing
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me b8liu@bu.edu
 
